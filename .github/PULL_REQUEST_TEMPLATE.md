@@ -1,34 +1,44 @@
-# 🚀 Motivation (Why is this PR needed?)
+# 🚀 Solicitud de Incorporación de Cambios (Pull Request)
 
-# 🛠 Changes
+## 📝 Descripción
+[Describe brevemente los cambios que estás solicitando incorporar. Incluye una visión general de los problemas que resuelve y de las nuevas características que implementa.]
 
-# 🧪 Testing
+## Tipo de Cambio
+- [ ] 👍 `Feature` - Nueva caracteristica/funcionalidad.
+- [ ] 🐛 `Bug Fix` - Cualquier cosa que arregla un error o comportamiento inesperado.
+- [ ] 💪 `Enhancement` - Una mejora
+- [ ] 📘 `Documentation Update` - Atualización de documentación.
+- [ ] 🧪 `Test` - Pruebas Unitaras/Integración
+- [ ] 🍀 `Style` - Diseño
+- [ ] 🔁 `CI-Build` - Integración continua/ Pipelines / Compilación
+- [ ] 🔙 `Revert` - Revertir Cambios
 
-# Development Checklist
+## 🛠 Cambios Realizados
+[Enumera los cambios específicos que has realizado en el código a nivel técnico, como la adición de nuevas funciones, archivos, clases, componentes reutilizables, etc.]
 
-- [ ] Documentation
-- [ ] Tests
-- [ ] PR title with correct [format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format)?
-- [ ] Is this a breaking change? If yes, include `BREAKING CHANGE` in your PR/commit [text](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit-message-footer).
- 
-# 🗒️ Release notes
+## 🎟 Tickets y Documentos Relacionados
+[Si existe algun ticker de linear o documento relacionado]
 
-### User-facing change?
+## 🧪 Testing
+- [ ] 👍 Si, incluye pruebas unitarias/integración
+- [ ] 🙅‍♂️ No, porque no son necesarias
+- [ ] 🙋‍♂️ No, no se realizó
 
-- [ ] No. Skip the rest of this section.
-- [ ] Yes. Complete the sections below to define what is included in the release notes for super.AI users.
+## 🐹 Pruebas Realizadas
+[Enumera las pruebas que has realizado para asegurarte de que tus cambios funcionan según lo esperado. Esto puede incluir pruebas unitarias, pruebas de integración, pruebas de rendimiento, etc.]
 
-### How should the PR be classified in the release notes? Choose one
+## 📘 Documentacion
+- [ ] 👍 Si, se actualizó/incluyó la documentación
+- [ ] 🙅‍♂️ No, porque no es necesaria
+- [ ] 🙋‍♂️ No, no se realizó
 
-- [ ] `Major new feature` - A new landmark feature that notably expands the product
-- [ ] `New feature` - Any new functionality that is added
-- [ ] `Bugfix` - Anything that corrects an error or unexpected behavior
-- [ ] `Enhancement` - An improvement/change that was not a bugfix
+## 📘 ¿Existen tareas que extras que se necesiten ejecutar?
 
-### Short description of the change and how it benefits the user
+## 📷 Capturas de Pantalla
+[Si tus cambios incluyen actualizaciones en la interfaz o cualquier otro aspecto visual, proporciona capturas de pantalla que muestren antes y después de tus modificaciones.]
 
-(Details in 1-2 sentences. You can just refer to another PR with a description if this PR is part of a larger change.)
+## 💬 Comentarios Adicionales
+[Cualquier comentario o información adicional]
 
-### Long description for major new features
-
-(2+ sentences explaining what the feature is, why it's important, and how it benefits the user)
+## 🎈 ¿Qué gif describe mejor este PR o cómo te hace sentir?
+[Utiliza https://chromewebstore.google.com/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep para colocar tu GIF]
