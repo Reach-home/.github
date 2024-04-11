@@ -32,7 +32,7 @@
 - [ ] 🙅‍♂️ No, porque no es necesaria
 - [ ] 🙋‍♂️ No, no se realizó
 
-## 📘 ¿Existen tareas que extras que se necesiten ejecutar?
+## 💻 ¿Existen tareas que extras que se necesiten ejecutar?
 [Enlistar o referenciar si existen tareas que se deban de ejecutar para poder probar la nueva funcionalidad]
 
 ## 📷 Capturas de Pantalla
