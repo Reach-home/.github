@@ -27,8 +27,8 @@
 ## 🐹 Pruebas Realizadas
 [Enumera las pruebas que has realizado para asegurarte de que tus cambios funcionan según lo esperado. Esto puede incluir pruebas unitarias, pruebas de integración, pruebas de rendimiento, etc.]
 
-## 📘 Documentación
-- [ ] 👍 Si, se actualizó/incluyó la documentación
+## 📘 Manual de Usuario
+- [ ] 👍 Si, se actualizó/incluyó el manual de usuario
 - [ ] 🙅‍♂️ No, porque no es necesaria
 - [ ] 🙋‍♂️ No, no se realizó
 
